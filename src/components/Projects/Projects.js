@@ -40,8 +40,8 @@ function Projects() {
             <ProjectCard
               imgPath={P3}
               isBlog={false}
-              title="Scientia - Ecommerce"
-              description="Scientia es una Ecommerce basada en la comercialización de cursos virtuales de múltiples temáticas. Los usuarios pueden buscar, comprar, visualizar, crear y regalar cursos on demand."
+              title="Portafolio"
+              description="Portafolio web profesional en el cual podrás conocer más de mi, mis habilidades, soft skills, curriculum vitae, mis proyectos e información de contacto."
               link="https://portafolio-rust-one.vercel.app/"
               repo="https://github.com/fabios21/Portafolio-Profesional"
             />
