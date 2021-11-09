@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 
 import P1 from "../../Assets/Projects/P1.png";
 import P2 from "../../Assets/Projects/P2.png";
+import P3 from "../../Assets/Projects/P3.png";
 
 function Projects() {
   return (
@@ -37,12 +38,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={P2}
+              imgPath={P3}
               isBlog={false}
               title="Scientia - Ecommerce"
               description="Scientia es una Ecommerce basada en la comercialización de cursos virtuales de múltiples temáticas. Los usuarios pueden buscar, comprar, visualizar, crear y regalar cursos on demand."
-              link="https://front-scientia-pf.vercel.app/"
-              repo="https://github.com/Scientia-PF-nuevo"
+              link="https://portafolio-rust-one.vercel.app/"
+              repo="https://github.com/fabios21/Portafolio-Profesional"
             />
           </Col>
         </Row>
