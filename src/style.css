@@ -458,7 +458,7 @@ html {
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(53, 110, 136, 0.459) !important;
   color: white !important;
-  background-color: transparent !important;
+  background-color: rgba(52, 145, 122, 0.466) !important;
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
