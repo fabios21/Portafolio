@@ -10,7 +10,7 @@ function Projects() {
   return (
     <Container fluid className="project-section">
       <Container>
-        <h1 className="project-heading">
+        <h1>
           <strong className="purple">Mis proyectos </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
@@ -19,7 +19,7 @@ function Projects() {
               imgPath={P1}
               isBlog={false}
               title="Videogames Catalogue"
-              description="Es un catálogo de videojuegos donde puedes acceder a la información detallada de cada uno de los juegos listados, filtrarlos por genero, buscarlos por nombre, ordenarlos alfabéticamente y por rating, y tienes la posibilidad de crear un nuevo elemento de videojuego."
+              description="Es un catálogo de videojuegos donde puedes acceder a la información detallada, filtrarlos, buscarlos por nombre, ordenarlos alfabéticamente/ rating, y tienes la posibilidad de crear un nuevo elemento de videojuego."
               link="https://pi-videogames-m9f2y5m5d-fabios21.vercel.app"
               repo="https://github.com/fabios21/PI-Videogames"
             />
