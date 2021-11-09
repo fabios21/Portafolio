@@ -8,9 +8,9 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://github.com/fabios21/Portafolio-Profesional/blob/main/src/Assets/CV.pdf";
+  "https://raw.githubusercontent.com/fabios21/Portafolio-Profesional/master/src/Assets/CV.pdf";
 
-function ResumeNew() {
+function CV() {
   const [width, setWidth] = useState(1200);
 
   useEffect(() => {
@@ -44,4 +44,4 @@ function ResumeNew() {
   );
 }
 
-export default ResumeNew;
+export default CV;

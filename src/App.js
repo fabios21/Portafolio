@@ -5,7 +5,7 @@ import Home from "./components/Home/Home";
 import Skills from "./components/Skills/Skills";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
-import Resume from "./components/Resume/ResumeNew";
+import CV from "./components/CV/CV";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style.css";
 import "./App.css";
@@ -34,7 +34,7 @@ function App() {
           <Route path="/" exact component={Home} />
           <Route path="/project" component={Projects} />
           <Route path="/skills" component={Skills} />
-          <Route path="/resume" component={Resume} />
+          <Route path="/resume" component={CV} />
         </Switch>
         <Footer />
       </div>
