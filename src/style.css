@@ -337,6 +337,7 @@ html {
   text-align: center !important;
   padding-top: 25px;
   color: white !important;
+  background-color: rgba(255, 255, 255, 0.116);
 }
 
 .home-about-social-links {

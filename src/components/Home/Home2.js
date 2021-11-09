@@ -32,7 +32,7 @@ function Home2() {
               <br />
               
               <br />
-              Cuento con gran disposición para aprender nuevas herramientas/tecnologías y escalar en cada una de mis habilidades. Me adapto muy bien a el trabajo en equipo y no tengo problemas en colaborar para cumplir con los objetivos deseados. Soy determinado y responsable con mis compromisos, metas personales y profesionales.
+              Cuento con gran disposición para aprender nuevas herramientas/tecnologías y escalar en cada una de mis habilidades. Me adapto muy bien al trabajo en equipo y no tengo problemas en colaborar para cumplir con los objetivos deseados. Soy determinado y responsable con mis compromisos, metas personales y profesionales.
               <br />
               <br />
             </p>
@@ -47,7 +47,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Contactame</h1>
             <p>
-              Si te interesa mi perfil sientete libre de <span className="purple"> contactarte </span> conmigo.
+              Si te interesa mi perfil sientete libre de <span className="blue"> contactarte </span> conmigo.
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
