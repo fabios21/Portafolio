@@ -43,7 +43,7 @@ function Projects() {
               title="Portafolio"
               description="Portafolio web profesional en el cual podrás conocer más de mi, mis habilidades, soft skills, curriculum vitae, mis proyectos e información de contacto."
               link="https://portafolio-rust-one.vercel.app/"
-              repo="https://github.com/fabios21/Portafolio-Profesional"
+              repo="https://github.com/fabios21/Portafolio"
             />
           </Col>
         </Row>
